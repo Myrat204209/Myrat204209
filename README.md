@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Cross Platform Development 
 - 🌱 I’m currently learning Flutter. Have a half a year experience on it.  
 - 💞️ I’m looking to collaborate on ...  
-- 📫 How to reach me annamuhammedov.myrat@gmail.com
+- 📫 How to reach me myrat.annamuhammedov2002@gmail.com
 
 <!---
 Myrat204209/Myrat204209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
