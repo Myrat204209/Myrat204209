@@ -1,37 +1,26 @@
-- 👋 Hi, I’m @Myrat204209
-- 👀 I’m interested in ...
-    Building beautiful and functional mobile applications with Flutter.
-    Tackling problems with a quick and analytical mind.
-    Expanding my knowledge in various programming languages. (C++, Python, Java)
-
-- 🌱 I’m currently learning ...
-    New functionalities and best practices in Flutter development.
-    Ways to improve my problem-solving skills and coding efficiency.
-    Exploring potential applications of Flutter in different domains.
-- 💞️ I’m looking to collaborate on ...
-    Open-source projects that align with my interests and skillset.
-    Engaging projects that utilize Flutter for creative mobile app development.
-    Opportunities to learn and grow alongside other passionate developers.
-- 📫 How to reach me ...
-    Feel free to connect with me on GitHub! 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy the challenge of a good IQ test and love finding elegant solutions to complex problems.
 <h1 align="center">Hi 👋, I'm Myratgeldi</h1>
+
 <h3 align="center">A passionate Flutter developer from hot Turkmenistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myrat204209&label=Profile%20views&color=0e75b6&style=flat" alt="myrat204209" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myrat204209" alt="myrat204209" /></a> </p>
 
+- 😄 Pronouns: He/Him
+  
 - 🔭 I’m currently working on e-commerce app with delivery service based for middle-small businesses [Mobile shop](https://github.com/Myrat204209/mobile_shop)
 
-- 🌱 I’m currently learning **Riverpod, Drift, Websocket, gRPC**
+- 🌱 I’m currently learning **Riverpod, Drift,Websocket, gRPC**
 
+- 💞️ I’m looking to collaborate on ...
+    **Open-source projects that align with my interests and skillset**
+    **Engaging projects that utilize Flutter for creative mobile app development**
+    **Opportunities to learn and grow alongside other passionate developers.**
 - 💬 Ask me about **BLoC, project architecture, Hive**
 
 - 📫 How to reach me **myrat.annamuhammedov2002@gmail.com**
 
-- ⚡ Fun fact **I think I am coordinated**
+- ⚡ Fun fact **I enjoy the challenge of a good IQ test and love finding elegant solutions to complex problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
