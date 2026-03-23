@@ -1,41 +1,27 @@
-<h1 align="center">Hi 👋, I'm Myrat</h1>
+# 💫 About Me:
+🔭 I’m currently working on<br>A production-grade Smart Home Ecosystem built with Flutter. It features role-based access control (RBAC), multi-property management, and real-time hardware orchestration (Sensors & Controllers) with a focus on high-performance monitoring dashboards.<br><br>👯 I’m looking to collaborate on<br>Scalable Micro-SaaS architectures and advanced state management patterns. I’m particularly interested in projects pushing the boundaries of the BLoC pattern within multi-package Flutter environments.<br><br>🤝 I’m looking for help with<br>Optimizing low-latency WebRTC/RTSP camera streaming and efficient playback of high-bitrate security footage within Flutter.<br><br>🌱 I’m currently learning<br>Deep-diving into advanced UI rendering optimization for complex data-heavy dashboards and refining automated deployment pipelines for multi-platform Flutter apps.<br><br>💬 Ask me about<br>Flutter Clean Architecture, building modular multi-package systems, Firebase Analytics/Crashlytics integration, and why the Command Line is superior for build management.<br><br>⚡ Fun fact<br>I’m a firm believer that if you can’t deploy it from a terminal, the workflow isn't finished yet.
 
-<h3 align="center">A passionate Flutter developer from hot Turkmenistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myrat204209&label=Profile%20views&color=0e75b6&style=flat" alt="myrat204209" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/alan_turing_2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/myrat-dev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@myrat.annamuhammedov2002) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myrat204209" alt="myrat204209" /></a> </p>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Myrat204209&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Myrat204209&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Myrat204209&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 😄 Pronouns: He/Him
-  
-- 🔭 I’m currently working on e-commerce app with delivery service based for middle-small businesses [Mobile shop](https://github.com/Myrat204209/mobile_shop)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Myrat204209&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 I’m currently learning **Riverpod, Drift,Websocket, gRPC**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💞️ I’m looking to collaborate on ...
-    **Open-source projects that align with my interests and skillset**
-    **Engaging projects that utilize Flutter for creative mobile app development**
-    **Opportunities to learn and grow alongside other passionate developers.**
-- 💬 Ask me about **BLoC, project architecture, Hive**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Myrat204209&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **myrat.annamuhammedov2002@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=Myrat204209&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I enjoy the challenge of a good IQ test and love finding elegant solutions to complex problems.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/myrat204209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="myrat204209" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21517253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21517253" height="30" width="40" /></a>
-<a href="https://medium.com/@myrat.annamuhammedov2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@myrat.annamuhammedov2002" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/myrat.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="myrat.a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/myrat204209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="myrat204209" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myrat204209&show_icons=true&locale=en&layout=compact" alt="myrat204209" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myrat204209&show_icons=true&locale=en" alt="myrat204209" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myrat204209&" alt="myrat204209" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
